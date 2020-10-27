@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crypto", "Crypto\Crypto.csproj", "{3AAB49FD-15AD-4359-9161-28F1C1725C31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hashing", "Hashing\Hashing.csproj", "{832E1765-EB6B-4317-9001-CF69BA26A49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingDemo", "HashingDemo\HashingDemo.csproj", "{ED4D8527-74C2-4339-BFA6-C6C32FDD452B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AAB49FD-15AD-4359-9161-28F1C1725C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAB49FD-15AD-4359-9161-28F1C1725C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAB49FD-15AD-4359-9161-28F1C1725C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAB49FD-15AD-4359-9161-28F1C1725C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832E1765-EB6B-4317-9001-CF69BA26A49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832E1765-EB6B-4317-9001-CF69BA26A49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832E1765-EB6B-4317-9001-CF69BA26A49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832E1765-EB6B-4317-9001-CF69BA26A49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4D8527-74C2-4339-BFA6-C6C32FDD452B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4D8527-74C2-4339-BFA6-C6C32FDD452B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4D8527-74C2-4339-BFA6-C6C32FDD452B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4D8527-74C2-4339-BFA6-C6C32FDD452B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26991F9B-3491-4BA2-8F66-C78AA9A6FF08}
+	EndGlobalSection
+EndGlobal
