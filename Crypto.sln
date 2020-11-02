@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hashing", "Hashing\Hashing.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingDemo", "HashingDemo\HashingDemo.csproj", "{ED4D8527-74C2-4339-BFA6-C6C32FDD452B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurePasswordDemo", "SecurePasswordDemo\SecurePasswordDemo.csproj", "{EABD95EE-917C-41DF-B550-DB23F037DB32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecurePasswordDemo", "SecurePasswordDemo\SecurePasswordDemo.csproj", "{EABD95EE-917C-41DF-B550-DB23F037DB32}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricalEncryptionDemo", "SymmetricalEncryptionDemo\SymmetricalEncryptionDemo.csproj", "{DDDD086F-A69B-4D1D-8A5C-898D15C118D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsymmetricalEncryptionDemo", "AsymmetricalEncryptionDemo\AsymmetricalEncryptionDemo.csproj", "{5297118C-3B73-4F43-924A-51CCB4F712CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DDDD086F-A69B-4D1D-8A5C-898D15C118D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDDD086F-A69B-4D1D-8A5C-898D15C118D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDDD086F-A69B-4D1D-8A5C-898D15C118D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5297118C-3B73-4F43-924A-51CCB4F712CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5297118C-3B73-4F43-924A-51CCB4F712CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5297118C-3B73-4F43-924A-51CCB4F712CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5297118C-3B73-4F43-924A-51CCB4F712CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
